@@ -1,0 +1,15 @@
+
+# Raw dataset files
+data/
+
+# Local DuckDB databases and related files
+*.duckdb
+*.duckdb.wal
+
+# Temporary files
+*.tmp
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
